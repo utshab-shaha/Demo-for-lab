@@ -7,7 +7,8 @@ int main()
     cout<< "enter the first word :";
     cin>> a;
     cout<< "enter the second word :";
-    cin>>b;
+    cin>>b; //feelings kemon bhaiya?
+    
 
     int  count[26] = {0};
     for(char c:a )
